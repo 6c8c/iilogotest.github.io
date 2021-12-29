@@ -1,0 +1,71 @@
+<html>
+<head>
+  
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href='https://fonts.googleapis.com/css?family=Bilbo Swash Caps' rel='stylesheet'>
+  <link href='https://fonts.googleapis.com/css?family=Bad Script' rel='stylesheet'>
+  <link href='https://fonts.googleapis.com/css?family=Beth Ellen' rel='stylesheet'>
+  <link href='https://fonts.googleapis.com/css?family=Bilbo' rel='stylesheet'>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link href='https://fonts.googleapis.com/css?family=Cardo' rel='stylesheet'>
+  <style>
+    #navbar-iframe {
+height: 0px;
+visibility: hidden;
+display: none;
+}
+    body {
+  background-image: #FED229;
+}
+    h1 {text-align: center;}
+p {text-align: center;
+    text-align: center;}
+div {text-align: center;}
+
+    img {
+  border-radius: 50%;
+       margin: 5px 5px;
+
+}
+    navbar { height: 0px; visibility: hidden; display: none;
+    
+</style>
+</head>
+
+  
+
+ 
+
+<body>
+  <b:section class='navbar' id='navbar' maxwidgets='1' showaddelement='no'>
+<b:widget id='Navbar1' locked='true' title='Navbar' type='Navbar'/>
+</b:section>
+  
+  
+  
+  
+  
+<body style="background-color:#FED229;">
+<h1> <img src="https://i.ibb.co/CWqN5PY/header.png" alt="Flowers in Chania"  style="width:400px;height:200px;"></h1>
+<p>
+  <a href="hot.html">
+<img src="https://i.ibb.co/PmsdXZv/1xx.png" alt="Avatar" style="width:200px">
+  </a>
+  <a href="cold.html">
+  <img src="https://i.ibb.co/51xSQ8x/2xx.png" alt="Avatar" style="width:200px">
+  </a>
+  <a href="bakery.html">
+  <img src="https://i.ibb.co/ZWHZDXf/4xx.png" alt="Avatar" style="width:200px">
+  </a>
+<a href="sweets.html">
+  <img src="https://i.ibb.co/SyzzxsN/3xx.png" alt="Avatar" style="width:200px">
+  </a>
+</p>
+
+</body>
+  
+  
+  <script>
+
+</html>
+ 
